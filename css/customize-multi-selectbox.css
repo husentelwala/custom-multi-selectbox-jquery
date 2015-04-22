@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+/*********** CORE ***********/
+.custom-multi-select .active { background:#333; color:#FFF; }
+.custom-multi-select { display:inline-block; min-width:300px; border:1px solid #CCC; font-family: 'Open Sans', sans-serif; }
+.custom-multi-select ul li { padding:4px 10px; list-style:none; cursor:pointer; }
+.custom-multi-select ul { margin:0px; padding:0px; }
